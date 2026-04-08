@@ -1,0 +1,1 @@
+delete from table where id=2;
